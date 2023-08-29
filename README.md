@@ -1,3 +1,3 @@
 # pig-game
 
-https://thebeast5520.github.io/pig_game/
+https://theraven5520.github.io/pig_game/
